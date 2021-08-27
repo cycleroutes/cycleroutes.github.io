@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="categories">
+    <h1 class="h1 category-title">
+      Region:&nbsp;{{ page.category-name }}
+    </h1>
+    <div class="posts">
+      {% for post in site.categories[page.category-name] %}
+        <div class="post py3">
+          <p class="post-meta">
+        </p>
+          <a href="{{ post.url | relative_url }}" class="post-link">
+            <h3 class="h1 post-title">
+              {{ post.title }}
+            </h3>
+          </a>
+          <span class="post-summary">
+              <p>{{ post.description }}</p>
+                <p><b>Distance:</b> {{post.distance}}</p>
+                <p><b>Elevation:</b> {{post.elevation}}</p>
+          </span>
+        </div>
+        <br>
+        {% endfor %}
+    </div>
+</div>

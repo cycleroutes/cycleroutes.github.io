@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "GL03 - Bibury"
+date:   2021-08-27 11:33:45 +0100
+categories: Gloucestershire
+link: "https://www.google.com/maps/d/embed?mid=1jy_TwPyKkrW9Piv3ol15WhnUYVY1GaDV"
+gpx: "GL03 - Bibrury.gpx"
+distance: 74.08km 
+elevation: 1,238m
+description: "Lumpy, picturesque ride to Bibury on largely quiet roads"
+location: Ride starts at Churchdown Skatepark. [https://goo.gl/maps/Nq9SiyRjfa4nUGAs9](https://goo.gl/maps/Nq9SiyRjfa4nUGAs9). Free Parking Available
+difficulty: "Moderate"
+---
+
+
+
+#### Climbs
+
+- Leckhampton Hill, 3.02 km @ 6.2% [https://www.strava.com/segments/23192529](https://www.strava.com/segments/23192529)
+- Hillcot Wood, 1.5km @ 5.9% [https://www.strava.com/segments/2682734](https://www.strava.com/segments/2682734)
+- Lyons Lodge, 1.2km @ 7.0% [https://www.strava.com/segments/996440](https://www.strava.com/segments/996440)
+- Watercombe, 0.45 km @ 9.8% [https://www.strava.com/segments/7055976](https://www.strava.com/segments/7055976)
+
+#### Surfaces
+
+Largely ok, a couple of sections of Slippy/muddy top layer after rain. Particular section to watch out for is the end of Hartley Lane at ~12.8km the surface is awful but avoids a busy stretch of road.
+
+#### Refreshments
+
+- The Swan, Bibury @ ~37 km
+- Trout Farm Cafe, Bibury @ ~37km (Bit dear, good cake, excellent sausage rolls!)
+- "Wheelers" at Brimpsfield Village Hall @ 62km (Opening hours dubious)
+
+#### Notes
+
+As per surfaces, there are some patches of dodgy road in places, the whole route is largely small country lanes with very little traffic, but be conscious that they are narrow and you may need to give way!
+
+Bibury is a tourist trap at the weekends, and cars tend to have a mind of their own, be super careful when cycling through the village.

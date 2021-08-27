@@ -21,18 +21,19 @@
 title: CycleRoutes
 description: >- # this means to ignore newlines until "baseurl:"
   CycleRoutes is a selection of curated bike routes with descriptions and GPX files available for download.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cycleroutes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 show_excerpts: true
+paginate: 5
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-disgus:
+disqus:
   shortname: https-cycleroutes-github-io
 
 # Exclude from processing.

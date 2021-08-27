@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "GL02 - Croome Court"
+date:   2021-08-27 11:33:45 +0100
+categories: Gloucestershire
+link: "https://www.google.com/maps/d/embed?mid=1xrRla9FRSa2WpFUAJufWGE6Zxnk6_6Ef"
+gpx: "GL02 - Croome Court.gpx"
+distance: 92.39km 
+elevation: 628m
+description: "A nice ride on quiet roads from Churchdown Community Centre to Croome Court."
+location: Ride starts at Churchdown Skatepark. [https://goo.gl/maps/Nq9SiyRjfa4nUGAs9](https://goo.gl/maps/Nq9SiyRjfa4nUGAs9). Free Parking Available
+difficulty: "Easy"
+---
+
+
+#### Climbs
+
+TBC
+
+#### Surfaces
+
+TBC
+
+#### Refreshments
+
+- Croome Court Cafe (National Trust)
+- The Old Post Office, Beckford
+- Churchdown Community Centre Cafe @ Finish
+
+#### Notes
+
+Road along the river through Chacely and Forthampton can have fast traffic not paying attention, cycle with caution.
+
+There is a short stretch of the A46 at Northway/Ashchurch, this can be avoided by taking Aston Fields Lane before joining the A46 and then taking a left. 
+
+Why not stop off and have a look at Croome Court (National Trust) and RAF Defford.
