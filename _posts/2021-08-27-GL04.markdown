@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "GL04 - Chipping Campden and Broadway"
+date:   2021-08-27 11:33:45 +0100
+categories: Cheltenham
+link: "https://www.google.com/maps/d/embed?mid=1_MhhQ9hqCcLyBXHWsaIQ4Q_Erqy_FNEk"
+gpx: "GL04 - Chipping Campden and Broadway.gpx"
+distance: 82.72km 
+elevation: 930m
+description: "Picturesque ride from Cheltenham out to chipping Campden and Broadway"
+location: Ride starts at Pitville Pump Rooms. [https://goo.gl/maps/86sFjFhG4ugD7xd68](https://goo.gl/maps/86sFjFhG4ugD7xd68). Parking Available
+difficulty: "Moderate"
+---
+
+#### Climbs
+
+- Cleeve Hill, 2.4km at 5.4% Gradient [https://www.strava.com/segments/13087956](https://www.strava.com/segments/13087956)
+- Stanway Hill, 2.59km at 5.1% Gradient [https://www.strava.com/segments/13097049](https://www.strava.com/segments/13097049)
+
+#### Surfaces
+
+TBC
+
+#### Refreshments
+
+- Morris & Brownie Cafe @ Broadway tower, slightly off route.
+
+#### Notes
+
+Cleeve hill is a fairly "busy" climb and the surface on the decent isn't perfect. 
+Broadway can be very busy on a weekend.

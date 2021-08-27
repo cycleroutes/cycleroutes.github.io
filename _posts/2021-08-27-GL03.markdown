@@ -2,7 +2,7 @@
 layout: post
 title:  "GL03 - Bibury"
 date:   2021-08-27 11:33:45 +0100
-categories: Gloucestershire
+categories: Gloucester
 link: "https://www.google.com/maps/d/embed?mid=1jy_TwPyKkrW9Piv3ol15WhnUYVY1GaDV"
 gpx: "GL03 - Bibrury.gpx"
 distance: 74.08km 

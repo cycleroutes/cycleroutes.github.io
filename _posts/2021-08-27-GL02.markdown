@@ -2,7 +2,7 @@
 layout: post
 title:  "GL02 - Croome Court"
 date:   2021-08-27 11:33:45 +0100
-categories: Gloucestershire
+categories: Gloucester
 link: "https://www.google.com/maps/d/embed?mid=1xrRla9FRSa2WpFUAJufWGE6Zxnk6_6Ef"
 gpx: "GL02 - Croome Court.gpx"
 distance: 92.39km 

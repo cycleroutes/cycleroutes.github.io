@@ -9,7 +9,7 @@ title: Routes
   {% for category in sortedCategories %}
    {% assign cat4url = category[0] | remove:' ' %}
    <a class="sidebar-nav-item" href="{{site.baseurl}}/routes/{{cat4url}}">
-      {{category[0]}}
+      <p>{{category[0]}}</p>
    </a>
   {% endfor %}
 </div>
