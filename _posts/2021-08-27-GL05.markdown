@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "GL05 - Bourton on the Water and Bibury"
+date:   2021-08-27 11:33:45 +0100
+categories: Cheltenham
+link: "https://www.google.com/maps/d/embed?mid=12sPCrvvy6q7VJ5XHd3AvzL34Uzga2pRG"
+gpx: "GL05 - Bourton on the Water.gpx"
+distance: 174km 
+elevation: 2,129m
+description: "Long ride from Cheltenham out to Bourton on the Water and Bibury"
+location: Ride starts at Pitville Pump Rooms. [https://goo.gl/maps/86sFjFhG4ugD7xd68](https://goo.gl/maps/86sFjFhG4ugD7xd68). Parking Available
+difficulty: "Tough"
+---
+
+#### Climbs
+
+- Cleeve Hill, 2.4km at 5.4% Gradient [https://www.strava.com/segments/13087956](https://www.strava.com/segments/13087956)
+- Sudeley Hill, 2.5km at 8.4% Gradient [https://www.strava.com/segments/3899583](https://www.strava.com/segments/3899583)
+- Wyck Hill, 0.72km at 9.1% Gradient [https://www.strava.com/segments/15630631](https://www.strava.com/segments/15630631)
+- The Steeps, 0.7km at 8.5% Gradient [https://www.strava.com/segments/1623072](https://www.strava.com/segments/1623072)
+- Chedworth Hill, 1.7km at 6.2% Gradient [https://www.strava.com/segments/6810699](https://www.strava.com/segments/6810699)
+
+#### Surfaces
+
+TBC
+
+#### Refreshments
+
+- The Old Post Office, Guilting Power
+- The Swan, Bibury
+- Ashleworth Hub (Minor Detour Required)
+
+#### Notes
+
+There is lots of climbing in the first half of the ride, take it easy, don't go off too hard!
+Cleeve hill is a fairly "busy" climb and the surface on the descent isn't perfect. 
