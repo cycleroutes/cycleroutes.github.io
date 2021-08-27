@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: search.html
+
+---
+<h3>Search Results</h3>
+<p id="search-results"></p>
+
+<script>
+  window.store = {
+  {% assign searchable_pages = site.pages | where_exp: "page", "page.menu == 'main'" %}
+  {% assign searchable_documents = site.documents %}
+  {% for page in searchable_pages %}
+    {% assign searchable_documents = searchable_documents | push: page %}
+  {% endfor %}
+  {% for doc in searchable_documents %}
+    "{{ doc.url | slugify }}": {
+      "title": "{{ doc.title | xml_escape }}",
+      "author": "{{ doc.author | xml_escape }}",
+      "category": "{{ doc.category | xml_escape }}",
+      "description": {{ doc.description | strip_html | jsonify }},
+      "content": {{ doc.content | strip_html | jsonify }},
+      "url": "{{ doc.url | xml_escape }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+}
+</script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="/js/search.js"></script>
+
