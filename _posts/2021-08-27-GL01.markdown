@@ -2,23 +2,28 @@
 layout: post
 title:  "GL01 - BritishCamp"
 date:   2021-08-27 11:33:45 +0100
-categories: Gloucestershire Routes
+categories: Gloucestershire
 link: "https://www.google.com/maps/d/embed?mid=12tYtwkrz-ynrAzNdqjYMzagtEQBRaZiz"
 gpx: "GL01 - British Camp.gpx"
 distance: 74.29km 
 elevation: 649m
+description: "A nice ride on quiet roads from Churchdown Community Centre to British Camp."
+location: Ride starts at Churchdown Skatepark. [https://goo.gl/maps/Nq9SiyRjfa4nUGAs9](https://goo.gl/maps/Nq9SiyRjfa4nUGAs9). Free Parking Available
+difficulty: "Easy"
 ---
 
-**Climbs**:
+
+
+#### Climbs
 
 - Welland to British Camp, 2.7km at 6.2% gradient. [https://www.strava.com/segments/9994360](https://www.strava.com/segments/9994360)
 - Hollybush, 1.2km at 4.6% gradient [https://www.strava.com/segments/10074777](https://www.strava.com/segments/10074777)
 
-**Surfaces**
+#### Surfaces
 
 Mostly good road surface and quiet roads.
 
-**Refreshments**
+#### Refreshments
 
 - British Camp - "Sally's Place" @ ~ 40km
 
@@ -26,6 +31,6 @@ Mostly good road surface and quiet roads.
 
 - Churchdown Community Centre Cafe @ Finish
 
-**Notes**
+#### Notes
 
 Road along the river through Chacely and Forthampton can have fast traffic not paying attention, cycle with caution.

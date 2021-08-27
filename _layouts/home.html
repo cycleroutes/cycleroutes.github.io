@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Routes" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -22,8 +22,11 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          <p>{{ post.description }}</p>
         {%- endif -%}
+        <p><b>Distance:</b> {{post.distance}}</p>
+        <p><b>Elevation: </b>{{post.elevation}}</p>
+        <p><b>Difficulty: </b>{{post.difficulty}}</p>
       </li>
       {%- endfor -%}
     </ul>

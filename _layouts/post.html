@@ -27,8 +27,7 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p><b>Distance:</b> {{page.distance}}</p>
-    <p><b>Elevation:</b> {{page.elevation}}</p>
+    
     {% if page.link %}
     <center>
       <p>
@@ -36,10 +35,17 @@ layout: default
       </p>
     </center>
     {% endif %}
-
+    <h4>Description:</h4>
+    <p>{{page.description}}</p>
+    <p>{{page.location | markdownify}}</p>
+    <p><b>Distance:</b> {{page.distance}}</p>
+    <p><b>Elevation:</b> {{page.elevation}}</p>
+    <hr>
+    <p></p>
     {{ content }}
+    <h4>
     <a href="{{site.baseurl}}/routes/{{page.gpx}}">Download Route</a>
-    
+  </h4>
   </div>
 
   {%- if site.disqus.shortname -%}
