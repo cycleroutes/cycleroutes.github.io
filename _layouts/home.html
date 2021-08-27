@@ -34,6 +34,8 @@ layout: default
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
   <div class="pagination">
+    
+    {% if paginator.total_pages > 1 %}
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">
         Previous
@@ -48,6 +50,7 @@ layout: default
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
       <span class="next ">Next</span>
+    {% endif %}
     {% endif %}
   </div>
 </div>
