@@ -5,6 +5,7 @@ date:   2021-08-27 11:33:45 +0100
 categories: Gloucester
 link: "https://www.google.com/maps/d/embed?mid=12tYtwkrz-ynrAzNdqjYMzagtEQBRaZiz"
 gpx: "GL01 - British Camp.gpx"
+tags: [easy,<75km]
 distance: 74.29km 
 elevation: 649m
 description: "A nice ride on quiet roads from Churchdown Community Centre to British Camp."
