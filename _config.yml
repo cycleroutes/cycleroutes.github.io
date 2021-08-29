@@ -27,7 +27,6 @@ url: "https://cycleroutes.github.io/" # the base hostname & protocol for your si
 #github_username:  jekyll
 show_excerpts: true
 paginate: 5
-permalink: /:categories/:title/
 
 # Build settings
 theme: minima
